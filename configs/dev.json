@@ -1,0 +1,20 @@
+{
+    "app": {
+      "name": "banner",
+      "stage": "dev",
+      "apiKey": "YNWA"
+    },
+    "server": {
+      "port": ":8011",
+      "prefix": "/api",
+      "url": "http://127.0.0.1:8011/api/terminal/v1"
+    },
+    "database": {
+      "name": "postgres",
+      "user": "postgres",
+      "pass": "123456",
+      "dbName": "crucial",
+      "host": "127.0.0.1",
+      "port": "5432"
+    }
+  }
