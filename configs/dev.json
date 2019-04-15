@@ -12,7 +12,7 @@
     "database": {
       "name": "postgres",
       "user": "postgres",
-      "pass": "123456",
+      "pass": "postgres",
       "dbName": "crucial",
       "host": "127.0.0.1",
       "port": "5432"
